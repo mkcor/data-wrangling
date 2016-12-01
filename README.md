@@ -16,3 +16,16 @@ Activate the virtualenv:
     $ source ~/.virtualenv/data-wrangling/bin/activate
 
 When you are done working on this project, you can `$ deactivate`.
+You may want to `$ pip install --upgrade pip`.
+
+Install the dependencies:
+
+    $ pip install -r requirements.txt
+
+I cannot wait to give [Pipfile](https://github.com/pypa/pipfile) a try!!
+
+### Jupyter
+
+Launch the Jupyter Notebook:
+
+    $ jupyter notebook
